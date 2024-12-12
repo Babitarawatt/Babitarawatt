@@ -1,4 +1,4 @@
- 👨‍💼 Senior Customer Care Executive | 📊 Aspiring Data Scientist
+##  👨‍💼 Senior Customer Care Executive | 📊 Aspiring Data Scientist
 
 Hello! 👋 I am an experienced **Senior Customer Care Executive** with over **5 years of expertise** in delivering exceptional service and resolving customer issues. Currently, I am enhancing my analytical skills by pursuing a **Data Scientist course with SkillCircle** to transition into data-driven roles. 💻
 
